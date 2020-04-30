@@ -1,0 +1,17 @@
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    z-index: 2;
+}
+
+#spin {
+    transform: translate(200px, -700px);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: lighter;
+    /* background-color: antiquewhite; */
+    margin-left: 34px;
+}
